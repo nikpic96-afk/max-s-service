@@ -1,0 +1,594 @@
+[
+  {
+    "id": 1151,
+    "title": "Вода дистиллированная 5л",
+    "slug": "oda-distillirovannaya-5l",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/oda-distillirovannaya-5l/"
+  },
+  {
+    "id": 1148,
+    "title": "Смазка консистентная",
+    "slug": "smazka-konsistentnaya",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/smazka-konsistentnaya/"
+  },
+  {
+    "id": 1145,
+    "title": "Смазка цепей",
+    "slug": "smazka-czepej",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/smazka-czepej/"
+  },
+  {
+    "id": 1142,
+    "title": "Жидкость очиститель",
+    "slug": "zhidkost-ochistitel",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/zhidkost-ochistitel/"
+  },
+  {
+    "id": 1139,
+    "title": "Изолента",
+    "slug": "izolenta",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/izolenta/"
+  },
+  {
+    "id": 1131,
+    "title": "Маски",
+    "slug": "maski",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/maski/"
+  },
+  {
+    "id": 1128,
+    "title": "Перчатки",
+    "slug": "perchatki",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/perchatki/"
+  },
+  {
+    "id": 1125,
+    "title": "Светильники мухоловки",
+    "slug": "svetilniki-muholovki",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/svetilniki-muholovki/"
+  },
+  {
+    "id": 1122,
+    "title": "Лампы баректоцильные",
+    "slug": "lampy-barektoczilnye",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/lampy-barektoczilnye/"
+  },
+  {
+    "id": 1118,
+    "title": "Запчасти для оборудования (абат)",
+    "slug": "zapchasti-dlya-oborudovaniya-abat",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/zapchasti-dlya-oborudovaniya-abat/"
+  },
+  {
+    "id": 1115,
+    "title": "Ножи для мясорубок",
+    "slug": "nozhi-dlya-myasorubok",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/nozhi-dlya-myasorubok/"
+  },
+  {
+    "id": 1112,
+    "title": "Решетки для мясорубок",
+    "slug": "reshetki-dlya-myasorubok",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/reshetki-dlya-myasorubok/"
+  },
+  {
+    "id": 1109,
+    "title": "Автоматы для производства",
+    "slug": "avtomaty-dlya-proizvodstva",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/avtomaty-dlya-proizvodstva/"
+  },
+  {
+    "id": 1106,
+    "title": "Контакторы",
+    "slug": "kontaktory",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/kontaktory/"
+  },
+  {
+    "id": 1103,
+    "title": "Манжеты",
+    "slug": "manzhety",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/manzhety/"
+  },
+  {
+    "id": 1100,
+    "title": "Сальники",
+    "slug": "salniki",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/salniki/"
+  },
+  {
+    "id": 1097,
+    "title": "Подшипники",
+    "slug": "podshipniki",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/podshipniki/"
+  },
+  {
+    "id": 1094,
+    "title": "Жаропрочные стекла для печей",
+    "slug": "zharoprochnye-stekla-dlya-pechej",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/zharoprochnye-stekla-dlya-pechej/"
+  },
+  {
+    "id": 1090,
+    "title": "Тэны",
+    "slug": "teny",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/teny/"
+  },
+  {
+    "id": 1052,
+    "title": "Противни для тостов/гренки",
+    "slug": "protivni-dlya-tostov-grenki",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/protivni-dlya-tostov-grenki/"
+  },
+  {
+    "id": 1049,
+    "title": "Перфорированный противни",
+    "slug": "perforirovannyj-protivni",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/perforirovannyj-protivni/"
+  },
+  {
+    "id": 1046,
+    "title": "Неперфорированный противни",
+    "slug": "neperforirovannyj-protivni",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/neperforirovannyj-protivni/"
+  },
+  {
+    "id": 1043,
+    "title": "Противни для гамбургеров",
+    "slug": "protivni-dlya-gamburgerov",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/protivni-dlya-gamburgerov/"
+  },
+  {
+    "id": 1041,
+    "title": "Противни для сэндвича",
+    "slug": "protivni-dlya-sendvicha",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/protivni-dlya-sendvicha/"
+  },
+  {
+    "id": 1038,
+    "title": "Противни для багетов",
+    "slug": "protivni-dlya-bagetov",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/protivni-dlya-bagetov/"
+  },
+  {
+    "id": 1032,
+    "title": "Корыто для теста",
+    "slug": "koryto-dlya-testa",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/koryto-dlya-testa/"
+  },
+  {
+    "id": 1030,
+    "title": "Ящик для брожения",
+    "slug": "yashhik-dlya-brozheniya",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/yashhik-dlya-brozheniya/"
+  },
+  {
+    "id": 1024,
+    "title": "Ящик для муки",
+    "slug": "yashhik-dlya-muki",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/yashhik-dlya-muki/"
+  },
+  {
+    "id": 1018,
+    "title": "Тележка для противней",
+    "slug": "telezhka-dlya-protivnej",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/telezhka-dlya-protivnej/"
+  },
+  {
+    "id": 1012,
+    "title": "Стеллажная тележка",
+    "slug": "stellazhnaya-telezhka",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/stellazhnaya-telezhka/"
+  },
+  {
+    "id": 1006,
+    "title": "Тестораскаточная машина",
+    "slug": "testoraskatochnaya-mashina",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CHA/500\n\n\n CHA/600\n\n\n CHA/700\n\n\n CHA/500S\n\n\n CHA/600S\n\n\n\n\n Ширина Ленты Конвейера\n\n\n 50 см\n\n\n 60 см\n\n\n 70 см\n\n\n 50 см\n\n\n 60 см\n\n\n\n\n Мощность Двигателя\n\n\n 0,75 кг\n\n\n 0,75 кг\n\n\n 0,75 кг\n\n\n 0,75 кг\n\n\n 0,75 кг\n\n\n\n\n Длина Корпуса Цилиндра\n\n\n 50 см\n\n\n 60 см\n\n\n 70 см\n\n\n 50 см\n\n\n 60 см\n\n\n\n\n Диаметр Цилиндра\n\n\n 71 мм\n\n\n 71 мм\n\n\n 71 мм\n\n\n 71 мм\n\n\n 71 мм\n\n\n\n\n Интервал Цилиндра\n\n\n 0,1 &#8212; 48 мм\n\n\n 0,1 &#8212; 48 мм\n\n\n 0,1 &#8212; 48 мм\n\n\n 0,1 &#8212; 48 мм\n\n\n 0,1 &#8212; 48 мм",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/testoraskatochnaya-mashina/"
+  },
+  {
+    "id": 1000,
+    "title": "Тестораскаточная машина для лаваша и пиццы",
+    "slug": "testoraskatochnaya-mashina-dlya-lavasha-i-piczczy",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CHA / 30 \n\n\n CHA / 40\n\n\n\n\n Размеры Валков\n\n\n 43 x 51 x 65 см\n\n\n 53 x 51 x 65 см\n\n\n\n\n Габариты\n\n\n 30 см\n\n\n 40 см\n\n\n\n\n Мощность\n\n\n 0,5 kw &#8212; 220 В\n\n\n 0,5 kw &#8212; 220 В\n\n\n\n\n Вес\n\n\n 35 кг\n\n\n 40 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/testoraskatochnaya-mashina-dlya-lavasha-i-piczczy/"
+  },
+  {
+    "id": 994,
+    "title": "Охладитель воды",
+    "slug": "ohladitel-vody",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CSS / 300\n\n\n CSS / 600\n\n\n CSS / 900\n\n\n\n\n Объем\n\n\n 300 лт\n\n\n 600 лт\n\n\n 900 лт\n\n\n\n\n Диаметр\n\n\n 80 см\n\n\n 96 см\n\n\n 110 см\n\n\n\n\n Высота\n\n\n 177 см\n\n\n 203 см\n\n\n 205 см\n\n\n\n\n Напряжение\n\n\n 220 / 1 / 50 В\n\n\n 220 / 1 / 50 В\n\n\n 380 / 3 / 50 В\n\n\n\n\n Мощность\n\n\n 1,25 кВт\n\n\n 1,25 кВт\n\n\n 1,25 кВт\n\n\n\n\n Вес\n\n\n137 кг\n\n\n197 кг\n\n\n267 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/ohladitel-vody/"
+  },
+  {
+    "id": 988,
+    "title": "Кабинет ферментации",
+    "slug": "kabinet-fermentaczii",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CFC / 160\n\n\n CFC / 60 x 80\n\n\n CFC / 80 x 100\n\n\n\n\n Вместимость Тележек\n\n\n1  шт.\n\n\n 2 шт.\n\n\n 2 шт.\n\n\n\n\n Длина Кабины\n\n\n120 см\n\n\n 125 см\n\n\n 145 см\n\n\n\n\n Ширина Кабины\n\n\n145 см\n\n\n 170 см\n\n\n245 см\n\n\n\n\n Высота Кабины\n\n\n170 см\n\n\n 200 см\n\n\n 213 см",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/kabinet-fermentaczii/"
+  },
+  {
+    "id": 982,
+    "title": "Климатическая установка",
+    "slug": "klimaticheskaya-ustanovka",
+    "description": "CYA 60\n\n\nПроизво\nдительность\n\n\nПлотность Влажности\n\n\nДиапазон Влажности\n\n\nДиапазон Нагрева\n\n\nПодключение Воды\n\n\nГабариты\n\n\nМощность Двигателя\n\n\nВес\n\n\n\n\n\n\n\n10 м3\n\n\n% 30 &#8212; 90\n\n\n% 60 m / % 95 м\n\n\n(+ 20 c &#8212; + 50 c)\n\n\n1/2’’\n\n\n45 x 17 x 168 см\n\n\n6,5 кВт\n\n\n45 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/klimaticheskaya-ustanovka/"
+  },
+  {
+    "id": 976,
+    "title": "Мукопросеивательная машина",
+    "slug": "mukoproseivatelnaya-mashina",
+    "description": "CUE60\n\n\n Производство\n  в час\n\n\n Длина\n Машины\n\n\n Ширина\nМашины\n\n\n Высота\nМашины\n\n\n Электричество \n\n\n Вес  Машины\n\n\n\n\n\n\n\n 2000 кг /час\n\n\n 115 см\n\n\n 75 см\n\n\n 115 см\n\n\n 1,47 кВт\n\n\n 93 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/mukoproseivatelnaya-mashina/"
+  },
+  {
+    "id": 966,
+    "title": "Машина для сэндвича",
+    "slug": "mashina-dlya-sendvicha",
+    "description": "CSD100\n\n\n  Высота Cэндвича\n\n\n Ширина Сэндвича\n\n\n Напряжение\n\n\n Мощность Двигателя\n\n\nГабариты \n\n\n  Вес Машины\n\n\n\n\n\n\n\n  3 &#8212; 9 см\n\n\n  2 &#8212; 14 см \n\n\n  220 В\n\n\n  0,55 кВт\n\n\n49*76*82 см\n\n\n  42 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/mashina-dlya-sendvicha/"
+  },
+  {
+    "id": 963,
+    "title": "Настольная хлеборезка",
+    "slug": "nastolnaya-hleborezka",
+    "description": "CED 400\n\n\n    Высота Хлеба  \n\n\n Толщина\nЛомтиков \n\n\n Длина\n Хлеба \n\n\nШирина\nХлеба\n\n\n Мощность\nДвигателя \n\n\n Высота\nСтола\n\n\nГабариты \n\n\n Вес  Машины\n\n\n\n\n\n\n\n50-150 мм\n\n\n8-20 мм\n\n\n380 мм\n\n\n300 мм\n\n\n0,37 кВт\n\n\n250 мм\n\n\n68*55*64 см\n\n\n105 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/nastolnaya-hleborezka/"
+  },
+  {
+    "id": 957,
+    "title": "Ручная хлеборезка",
+    "slug": "ruchnaya-hleborezka",
+    "description": "CED 200\n\n\nВысота\nХлеба\n\n\nТолщина\nНарезки\n\n\nДлина\nХлеба\n\n\nШирина\nХлеба\n\n\nЭлектрическая\nМощность\n\n\nВысота\nСтола\n\n\nГлубина\nОборудования\n\n\nШирина\nОборудования\n\n\nВысота\nОборудования\n\n\nВес\nОборудования\n\n\n\n\n\n\n\n50-160 мм\n\n\n8-20 мм\n\n\n480мм\n\n\n340 мм\n\n\n0,55 квт\n\n\n730 мм\n\n\n820 мм\n\n\n650 мм\n\n\n1200 мм",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/ruchnaya-hleborezka/"
+  },
+  {
+    "id": 951,
+    "title": "Автоматическая конвейерная хлеборезка",
+    "slug": "avtomaticheskaya-konvejernaya-hleborezka",
+    "description": "CED100\n\n\nДлина\nХлеба\n\n\nВысота Хлеба\n\n\nТолщина Нарезки\n\n\nПроизводительность (шт./час)\n\n\nCкоростьКонвейера\n\n\nЭлектрическая Мощность\n\n\nДлина  \n\n\nШирина  \n\n\n\n\n\n\n\n\n\n400 мм\n\n\n50-140 мм\n\n\n8-20 мм\n\n\n900 (шт/час)\n\n\n0,2-2\n(м/мин.)\n\n\n0,55+0,55 квт\n\n\n2670 мм\n\n\n610 мм",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/avtomaticheskaya-konvejernaya-hleborezka/"
+  },
+  {
+    "id": 941,
+    "title": "Спиральный миксер с портативной чашей",
+    "slug": "spiralnyj-mikser-s-portativnoj-chashej",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CSF / 160\n\n\n CSF / 250\n\n\n\n\n Объем Муки\n\n\n 100 кг\n\n\n 150 кг\n\n\n\n\n Объем Теста\n\n\n 160 кг\n\n\n 250 кг\n\n\n\n\n Размеры Чаши\n\n\n 90 cm x 46 см\n\n\n 100 cm x 52 см\n\n\n\n\n Размеры Машины\n\n\n 94 x 150 x 160 см\n\n\n 104 x 160 x 160 см\n\n\n\n\n Мощность Двигателя\n\n\n 16 кВт\n\n\n 16 кВт\n\n\n\n\n Вес Машины\n\n\n 1150 кг\n\n\n 1250 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/spiralnyj-mikser-s-portativnoj-chashej/"
+  },
+  {
+    "id": 935,
+    "title": "Двигатель система подъема победил",
+    "slug": "dvigatel-sistema-podema-pobedil",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CSA/100\n\n\n CPA/100\n\n\n\n\n Вместимость Чаши\n\n\n 160-250 кг\n\n\n 100-120 лт\n\n\n\n\n Мощность Двигателя\n\n\n 2,5 кВт\n\n\n 1,1 + 0,37 кВт\n\n\n\n\n Высота\n\n\n 235 см\n\n\n 255 см\n\n\n\n\n Глубина\n\n\n 220 см\n\n\n 130 см\n\n\n\n\n Ширина\n\n\n 160 см\n\n\n 97 см\n\n\n\n\n Вес\n\n\n 750 кг\n\n\n 290 кг\n\n\n\n\n Высота Разгрузки\n\n\n 1600-1900 мм\n\n\n 2200 мм (max)",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/dvigatel-sistema-podema-pobedil/"
+  },
+  {
+    "id": 933,
+    "title": "Автоматический планетарный миксер",
+    "slug": "avtomaticheskij-planetarnyj-mikser",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CPF &#8212; 120\n\n\n\n\n Вместимость Чаши\n\n\n 120 лт\n\n\n\n\n Скорость Вращения Головки\n\n\n 0 &#8212; 200 об/мин\n\n\n\n\n Скорость Вращения Щетки\n\n\n 100 &#8212; 520 об/мин\n\n\n\n\n Размеры\n\n\n 118 x 100 x 205 см\n\n\n\n\n Мощность Двигателя\n\n\n 4 кВт\n\n\n\n\n Вес\n\n\n 550 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/avtomaticheskij-planetarnyj-mikser/"
+  },
+  {
+    "id": 927,
+    "title": "Планетарный миксер",
+    "slug": "planetarnyj-mikser",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CPM / 20 &#8212; Дом\n\n\n CPM / 40 -3\n\n\n CPM / 40- Дом\n\n\n CPM / 60-3\n\n\n CPM / 60 &#8212;  Дом\n\n\n\n\n Вместимость Чаши\n\n\n 20 лт\n\n\n 40 лт\n\n\n 40 лт\n\n\n 60 лт \n\n\n 60 лт\n\n\n\n\n Скорость Вращения Головки\n\n\n 0 &#8212; 100\nоб/мин\n\n\n 55 &#8212; 110 &#8212; 120\nоб/мин\n\n\n 0 &#8212; 220\nоб/мин\n\n\n 55- 110 &#8212; 120\nоб/мин\n\n\n 0 &#8212; 220 об/мин\n\n\n\n\n Скорость Вращения Щетки\n\n\n 0 &#8212; 360\nоб/мин\n\n\n140 &#8212; 280 &#8212; 560\nоб/мин\n\n\n 100 &#8212; 520\nоб/мин\n\n\n140 &#8212; 280 &#8212; 560\nоб/мин\n\n\n 100 &#8212; 520 об/мин\n\n\n\n\n Размеры\n\n\n 55 x 82 x 120 см\n\n\n 63 x 91 x 137 см\n\n\n 63 x 91 x 137 см\n\n\n 63 x 91 x 137 см\n\n\n 63 x 91 x 137 см\n\n\n\n\n Мощность Двигателя\n\n\n 1,1 кВт\n\n\n 1 &#8212; 1,4 &#8212; 1,7 кВт\n\n\n 2,2 кВт\n\n\n 1 &#8212; 1,4 &#8212; 1,7 кВт \n\n\n 2,2 кВт\n\n\n\n\n Вес\n\n\n 110 кг\n\n\n 220 кг\n\n\n 220 кг\n\n\n 230 кг\n\n\n 230 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/planetarnyj-mikser/"
+  },
+  {
+    "id": 921,
+    "title": "Тестосмес спиральный",
+    "slug": "testosmes-spiralnyj",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CSM-50\n\n\n CSM-60\n\n\n CSM-100\n\n\n CSM-120\n\n\n CSM-160\n\n\n CSM-250\n\n\n\n\n Объем Муки\n\n\n 25 кг\n\n\n 35 кг\n\n\n 62 кг\n\n\n 75 кг\n\n\n 100 кг\n\n\n 150 кг\n\n\n\n\n Объем Теста\n\n\n 45 кг\n\n\n 60 кг\n\n\n 100 кг\n\n\n 120 кг\n\n\n 160 кг\n\n\n 250 кг\n\n\n\n\n Вместимость Чаши\n\n\n 70 лт\n\n\n 90 лт\n\n\n 150  лт\n\n\n 200  лт\n\n\n 270  лт\n\n\n 385 лт\n\n\n\n\n Размеры Чаши\n\n\n 50 x 36 см\n\n\n 60 x 32 см\n\n\n 70 x 39 см\n\n\n 80 x 43 см\n\n\n 90 x 43 см\n\n\n 100 x 47 см\n\n\n\n\n Размеры\n\n\n 53x95x107 см\n\n\n 62x113x120 см \n\n\n 70x125x125 см\n\n\n 83x133x134 см \n\n\n 93x142x144 см \n\n\n 103x157x151 см \n\n\n\n\n Мощность  Двигателя\n\n\n 1,5 &#8212; 2,5 кВт\n\n\n 2,5 &#8212; 3,2 кВт\n\n\n 3,5 &#8212; 5,5 кВт\n\n\n 4 &#8212; 6 кВт\n\n\n 5,5 &#8212; 7,5 кВт\n\n\n 7,5  &#8212; 10 кВт\n\n\n\n\n Вес Машины\n\n\n 220 кг\n\n\n 300 кг\n\n\n 410 кг\n\n\n 440 кг\n\n\n 650 кг\n\n\n 800 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/testosmes-spiralnyj/"
+  },
+  {
+    "id": 915,
+    "title": "Тестомесительная машина",
+    "slug": "testomesitelnaya-mashina",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CYM-100\n\n\n CYM-150\n\n\n CYM-200\n\n\n CYM-250\n\n\n CYM-300\n\n\n\n\n Объем Муки\n\n\n 100 кг\n\n\n 150 кг\n\n\n 200 кг\n\n\n 250 кг\n\n\n 350 кг\n\n\n\n\n Объем Теста\n\n\n 150 кг\n\n\n 225 кг\n\n\n 300 кг\n\n\n 375 кг\n\n\n 450 кг\n\n\n\n\n Диаметр Чаши\n\n\n 90 см\n\n\n 100 см\n\n\n 110 см\n\n\n 120 см\n\n\n 130 см\n\n\n\n\n Размеры\n\n\n 160 x 90 x 115 см\n\n\n185 x 100 x 115 см\n\n\n190 x 110 x 125 см\n\n\n205 x 120 x 135 см\n\n\n222 x 130 x 148 см\n\n\n\n\n Мощность Двигателя\n\n\n 2,2 кВт\n\n\n 3 кВт\n\n\n 4 кВт\n\n\n 5,5 кВт\n\n\n 7,5 кВт\n\n\n\n\n Вес\n\n\n 350 кг\n\n\n 400 кг\n\n\n 450 кг\n\n\n 550 кг\n\n\n 600 кг\n\n\n\n\n Скорость Оборота Вилки\n\n\n 45 об/мин\n\n\n 45 об/мин\n\n\n 45 об/мин\n\n\n 45 об/мин\n\n\n 45 об/мин",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/testomesitelnaya-mashina/"
+  },
+  {
+    "id": 909,
+    "title": "Тестоформующая машина",
+    "slug": "testoformuyushhaya-mashina",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CHS/160\n\n\n CHS/180\n\n\n\n\n Ширина Конвейeра\n\n\n 42 см\n\n\n 42 см\n\n\n\n\n Производительность\n\n\n 2800 ед/час\n\n\n 2800 ед/час\n\n\n\n\n Длина\n\n\n 160 см\n\n\n 180 см\n\n\n\n\n Габариты\n\n\n 68 x 140 см\n\n\n 68 x 140 см\n\n\n\n\n Мощность Двигателя\n\n\n 1,1 кВт\n\n\n 1,1 кВт\n\n\n\n\n Вес\n\n\n 170 кг\n\n\n 200 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/testoformuyushhaya-mashina/"
+  },
+  {
+    "id": 903,
+    "title": "Предварительная расстойка",
+    "slug": "predvaritelnaya-rasstojka",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CHD / 154\n\n\n CHD / 238\n\n\n CHD / 280\n\n\n\n\n Колличество Корзин\n\n\n 154 шт\n\n\n 238 шт\n\n\n 280 шт\n\n\n\n\n Время Расстойки\n\n\n 4-5 мин\n\n\n 5-7 мин\n\n\n 6 &#8212; 9 мин\n\n\n\n\n Вес Тестовых Заготовок\n\n\n 50 гр &#8212; 1000 гр\n\n\n 50 гр &#8212; 1000 гр\n\n\n 50 гр &#8212; 1000 гр\n\n\n\n\n Габариты\n\n\n 160 x 100 x 216 см\n\n\n 160 x 140 x 216 см\n\n\n 160 x 182 x 216 см\n\n\n\n\n Мощность Двигателя\n\n\n 0,37 кВт\n\n\n 0,37 кВт\n\n\n 0,37 кВт\n\n\n\n\n Вес\n\n\n 650 кг\n\n\n 800 кг\n\n\n 1200 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/predvaritelnaya-rasstojka/"
+  },
+  {
+    "id": 897,
+    "title": "Тестоокруглительная машина",
+    "slug": "testookruglitelnaya-mashina",
+    "description": "TECHNICAL SPECIFICATIONS\n\n\nCHY / 30\n\n\nCHY / 50\n\n\nCHY / 100\n\n\nCHY / 200\n\n\n\n\nROLLING WEIGHT\n\n\n30 &#8212; 120 gr\n\n\n50 &#8212; 300 gr\n\n\n100 &#8212; 600 gr\n\n\n200 &#8212; 1200 gr\n\n\n\n\nROLLING CAPACITY\n\n\n2000 pieces / h\n\n\n3000 pieces / h\n\n\n3000 pieces / h\n\n\n3000 pieces / h\n\n\n\n\nDIMENSIONS ( W x D x H )\n\n\n70 x 70 x 130 cm\n\n\n90 x 90 x 150 cm\n\n\n90 x 90 x 150 cm\n\n\n90 x 90 x 150 cm\n\n\n\n\nMOTOR POWER\n\n\n1,1 Kw\n\n\n1,1 Kw\n\n\n1,1 Kw\n\n\n1,1 Kw\n\n\n\n\nWEIGHT\n\n\n80 kg\n\n\n195 kg\n\n\n195 kg\n\n\n195 kg",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/testookruglitelnaya-mashina/"
+  },
+  {
+    "id": 891,
+    "title": "Волюметрический тестоделитель",
+    "slug": "volyumetricheskij-testodelitel",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CHK / 30\n\n\n CHK / 50\n\n\n CHK / 100\n\n\n CHK / 250\n\n\n\n\n Вес Тестовых Заготовок\n\n\n 30 гр &#8212; 120 гр\n\n\n 50 гр &#8212; 250 гр\n\n\n 100 гр &#8212; 600 гр\n\n\n 250 гр &#8212; 1200 гр\n\n\n\n\n Производительность\n\n\n 3000-4000 ед /час\n\n\n 1500-2000 ед /ч\n\n\n 1500-2000 ед /час\n\n\n 1500-2000 ед /час\n\n\n\n\n Габариты\n\n\n 70 x 137 x 160 см\n\n\n 70 x 137 x 160 см\n\n\n 70 x 137 x 160 см\n\n\n 70 x 137 x 160 см\n\n\n\n\n Мощность Двигателя\n\n\n 1,5 кВт\n\n\n 1,5 кВт\n\n\n 1,5 кВт\n\n\n 1,5 кВт\n\n\n\n\n Вес\n\n\n 450 кг\n\n\n 450 кг\n\n\n 450 кг\n\n\n 450 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/voda-distillirovannaya.jpg",
+    "link": "https://dev.max-s.ru/product/volyumetricheskij-testodelitel/"
+  },
+  {
+    "id": 883,
+    "title": "Конвейерная печь для пиццы",
+    "slug": "konvejernaya-pech-dlya-piczczy",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CKP / 70 G\n\n\n CKP / 70 E\n\n\n\n\n Внутренние Размеры\n\n\n 71 x 48 см\n\n\n 71 x 48 см\n\n\n\n\n Внешние Размеры\n\n\n170 x 110 x 110 см\n\n\n 170 x 110 x 110 см\n\n\n\n\n Мощность\n\n\n 13 кВт ( 230\nВ / 50 hz )\n\n\n 10 кВт ( 380 В / 50 hz 3f + n )\n\n\n\n\n Источник Энергии\n\n\n Газ\n\n\n Электричество\n\n\n\n\n Ширина Конвейера\n\n\n 70 см\n\n\n 70 см\n\n\n\n\n Вес\n\n\n 135 кг\n\n\n 130 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/konvejernaya-pech-dlya-piczczy/"
+  },
+  {
+    "id": 877,
+    "title": "Электрическая подовая печь",
+    "slug": "elektricheskaya-podovaya-pech",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\nCTF / 1200\n\n\n CTF / 800\n\n\n\n\n Внутренние Размеры\n\n\n 124 x 84 x 18 см\n\n\n 84 x 84 x 18 см\n\n\n\n\n Внешние Размеры\n\n\n 166 x 102 x 40 см\n\n\n 126 x 102 x 40 см\n\n\n\n\n Размеры Противня\n\n\n 60 x 40 см\n\n\n 80 x 40 см\n\n\n\n\n Колличество Противней\n\n\n 4 шт\n\n\n 2 шт\n\n\n\n\n Электричество\n\n\n 10,5 кВт\n\n\n 7,5 кВт\n\n\n\n\n Вес\n\n\n 190 кг\n\n\n 160 кг\n\n\n\n\n Характеристики Камеры Брожения\n\n\n CTF / 1200 MK\n\n\n CTF/ 800 MK\n\n\n\n\n Внутренние Размеры\n\n\n 126 x 85 x 45 см\n\n\n 42 x 85 x 70 см\n\n\n\n\n Внешние Размеры\n\n\n 162 x 90 x 70 см\n\n\n 126 x 90 x 80 см\n\n\n\n\n Электричество\n\n\n 3 кВт\n\n\n 3 кВт\n\n\n\n\n Вес\n\n\n105 кг\n\n\n 90 кг\n\n\n\n\n Характеристики Вытяжки\n\n\n CTF/ 1200 D\n\n\n CTF/ 800 D\n\n\n\n\n Размеры\n\n\n 166 x 122 x 15 см\n\n\n 126 x 122 x15 см\n\n\n\n\n Электричество\n\n\n 0,37 кВт\n\n\n 0,37 кВт\n\n\n\n\n Вес\n\n\n 40 кг\n\n\n 30 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/elektricheskaya-podovaya-pech/"
+  },
+  {
+    "id": 871,
+    "title": "Конвекционная печь",
+    "slug": "konvekczionnaya-pech",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CKF/50\n\n\nCKF/100\n\n\n\n\nПроизводительность\n\n\n 20 кг\n\n\n 40 кг\n\n\n\n\n Количество  Противней  (Печь)\n\n\nОпционное Количество Противней\n\n\nОпционное Количество Противней\n\n\n\n\n Колличество Противней ( Брожение)\n\n\n  Опционно Шкаф Брожения\n\n\n  Опционно Шкаф Брожения\n\n\n\n\n Размеры Противней\n\n\n 40 x 60 см\n\n\n 40 x 60 см\n\n\n\n\n Ширина x Глубина\n\n\n 85 x 136,5 см\n\n\n 85 x 165,5 см\n\n\n\n\n Высота (Блок Брожения Исключен)\n\n\n 92 см\n\n\n 127 см\n\n\n\n\n Высота (Блок Брожения Включен)\n\n\n 164 см\n\n\n 213 см\n\n\n\n\n Источник Энергии\n\n\n Электр\nичество\n\n\n Электр\nичество\n\n\n\n\n Электричество\n\n\n 8,2 кВт\n\n\n 15,6 кВт\n\n\n\n\n Электрическое Подключение\n\n\n 220/380 В , 50hz\n\n\n220/380 В , 50hz\n\n\n\n\n Вес\n\n\n530 кг\n\n\n600 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/konvekczionnaya-pech/"
+  },
+  {
+    "id": 852,
+    "title": "Ротационно-конвекционная печь",
+    "slug": "rotaczionno-konvekczionnaya-pech",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\n CDKF / 10\n\n\n\n\nПроизводительность\n\n\n  40 кг/ час\n\n\n\n\n Колличество Противней (Печь)\n\n\nОпционное Количество Противней\n\n\n\n\n Колличество Противней (Брожение)\n\n\n  Опционно Шкаф Брожения\n\n\n\n\n Размеры Противней\n\n\n  40 x 60 см\n\n\n\n\n Ширина x Глубина\n\n\n100 cm x121,5 см\n\n\n\n\n Высота (Печь)\n\n\n  98,6 см\n\n\n\n\n Высота (Брожение)\n\n\n  72,5 см\n\n\n\n\n Общая Высота (С учетом колес)\n\n\n  223 см\n\n\n\n\n Расстояние Между Противнями (Печь)\n\n\n  8 см\n\n\n\n\n Расстояние Между Противнями (Брожение)\n\n\n  6,25 см\n\n\n\n\n Тэны\n\n\n  9 шт\n\n\n\n\n Электричество\n\n\n  18 кВт\n\n\n\n\n Вес\n\n\n  750 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/rotaczionno-konvekczionnaya-pech/"
+  },
+  {
+    "id": 849,
+    "title": "Ротационная печь",
+    "slug": "rotaczionnaya-pech",
+    "description": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ\n\n\nCDF-200\n\n\nCDF-100\n\n\nCDF-50\n\n\n\n\n Производительность\n\n\n  672 шт/час\n\n\n  336 шт/час\n\n\n  200 штук/час\n\n\n\n\n Колличество Противней\n\n\n  13-16 шт\n\n\n  10-13 шт\n\n\n  10-13 шт\n\n\n\n\n Размеры Противней\n\n\n  80 x 100 cm / 75 x 104 см\n\n\n  60 x 80 см\n\n\n  40 x 60 см\n\n\n\n\nВысота Между Направляющими\n\n\n  9 см\n\n\n  9 см\n\n\n  9 см\n\n\n\n\n Время Приготовления\n\n\n  16-18 мин\n\n\n  16-18 мин\n\n\n  16-18 мин\n\n\n\n\n Температура Приготовления\n\n\n  0-400 °C\n\n\n  0-400 °C\n\n\n  0-400 °C\n\n\n\n\n Размеры\n\n\n  160 см x 230 см x 240 см\n\n\n  130 см x 200 см x 220 см\n\n\n  115 см x 165 см x 200 см\n\n\n\n\n Электричество\n\n\n  4,1 кВт\n\n\n  3 кВт\n\n\n  3 кВт\n\n\n\n\n&nbsp;",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/rotaczionnaya-pech/"
+  },
+  {
+    "id": 838,
+    "title": "Компактная грузовая платформа",
+    "slug": "kompaktnaya-gruzovaya-platforma",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/kompaktnaya-gruzovaya-platforma/"
+  },
+  {
+    "id": 835,
+    "title": "Ножничная платформа для переноски груза",
+    "slug": "nozhnichnaya-platforma-dlya-perenoski-gruza",
+    "description": "",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/nozhnichnaya-platforma-dlya-perenoski-gruza/"
+  },
+  {
+    "id": 833,
+    "title": "OLM-A-600 Колесо Mecanum",
+    "slug": "olm-a-600-koleso-mecanum",
+    "description": "Колеса Mecanum состоят из роликов с особой геометрией, которые расположены особым образом под углом 45 градусов, что позволяет транспортному средству двигаться вперед и назад, поперечно размываться, поворачиваться в любом месте и двигаться в любом направлении. Колеса Mecanum теоретически увеличивают степень свободы используемого транспортного средства. В 1970 году Бенгт Илон, инженер из ЕС, изобрел шведскую компанию Mecanum. Позже его купила армия Соединенных Штатов, и Панама находилась в разработке. Эти колеса использовались для перевозки материалов и перемещения кораблей в армии.",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/olm-a-600-koleso-mecanum/"
+  },
+  {
+    "id": 831,
+    "title": "OLM-A-500 Колесо Mecanum",
+    "slug": "olm-a-500-koleso-mecanum",
+    "description": "Колеса Mecanum состоят из роликов с особой геометрией, которые расположены особым образом под углом 45 градусов, что позволяет транспортному средству двигаться вперед и назад, поперечно размываться, поворачиваться в любом месте и двигаться в любом направлении. Колеса Mecanum теоретически увеличивают степень свободы используемого транспортного средства. В 1970 году Бенгт Илон, инженер из ЕС, изобрел шведскую компанию Mecanum. Позже его купила армия Соединенных Штатов, и Панама находилась в разработке. Эти колеса использовались для перевозки материалов и перемещения кораблей в армии.",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/olm-a-500-koleso-mecanum/"
+  },
+  {
+    "id": 829,
+    "title": "OLM-A-140 Колесо Mecanum",
+    "slug": "olm-a-140-koleso-mecanum",
+    "description": "Колеса Mecanum состоят из роликов с особой геометрией, которые расположены особым образом под углом 45 градусов, что позволяет транспортному средству двигаться вперед и назад, поперечно размываться, поворачиваться в любом месте и двигаться в любом направлении. Колеса Mecanum теоретически увеличивают степень свободы используемого транспортного средства. В 1970 году Бенгт Илон, инженер из ЕС, изобрел шведскую компанию Mecanum. Позже его купила армия Соединенных Штатов, и Панама находилась в разработке. Эти колеса использовались для перевозки материалов и перемещения кораблей в армии.",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/olm-a-140-koleso-mecanum/"
+  },
+  {
+    "id": 827,
+    "title": "OLM-A-300 Колесо Mecanum",
+    "slug": "olm-a-300-koleso-mecanum",
+    "description": "Колеса Mecanum состоят из роликов с особой геометрией, которые расположены особым образом под углом 45 градусов, что позволяет транспортному средству двигаться вперед и назад, поперечно размываться, поворачиваться в любом месте и двигаться в любом направлении. Колеса Mecanum теоретически увеличивают степень свободы используемого транспортного средства. В 1970 году Бенгт Илон, инженер из ЕС, изобрел шведскую компанию Mecanum. Позже его купила армия Соединенных Штатов, и Панама находилась в разработке. Эти колеса использовались для перевозки материалов и перемещения кораблей в армии.",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/olm-a-300-koleso-mecanum/"
+  },
+  {
+    "id": 825,
+    "title": "OLM-A-250 Колесо Mecanum",
+    "slug": "olm-a-250-koleso-mecanum",
+    "description": "Колеса Mecanum состоят из роликов с особой геометрией, которые расположены особым образом под углом 45 градусов, что позволяет транспортному средству двигаться вперед и назад, поперечно размываться, поворачиваться в любом месте и двигаться в любом направлении. Колеса Mecanum теоретически увеличивают степень свободы используемого транспортного средства. В 1970 году Бенгт Илон, инженер из ЕС, изобрел шведскую компанию Mecanum. Позже его купила армия Соединенных Штатов, и Панама находилась в разработке. Эти колеса использовались для перевозки материалов и перемещения кораблей в армии.",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/olm-a-250-koleso-mecanum/"
+  },
+  {
+    "id": 822,
+    "title": "OLM-A-200 Колесо Mecanum",
+    "slug": "olm-a-200-koleso-mecanum",
+    "description": "Колеса Mecanum состоят из роликов с особой геометрией, которые расположены особым образом под углом 45 градусов, что позволяет транспортному средству двигаться вперед и назад, поперечно размываться, поворачиваться в любом месте и двигаться в любом направлении. Колеса Mecanum теоретически увеличивают степень свободы используемого транспортного средства. В 1970 году Бенгт Илон, инженер из ЕС, изобрел шведскую компанию Mecanum. Позже его купила армия Соединенных Штатов, и Панама находилась в разработке. Эти колеса использовались для перевозки материалов и перемещения кораблей в армии.",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/olm-a-200-koleso-mecanum/"
+  },
+  {
+    "id": 819,
+    "title": "OLM / A / 150 Колесо Mecanum",
+    "slug": "olm-a-150-koleso-mecanum",
+    "description": "Колесо Mecanum для тяжелых условий эксплуатации\n\nМеханические колеса состоят из роликов с особой геометрией, которые расположены особым образом под углом 45 градусов, что позволяет транспортному средству двигаться вперед и назад, перекрестно размываться, поворачиваться, где бы он ни находился, и двигаться во всех направлениях. Механические колеса теоретически увеличивают степень свободы используемого транспортного средства. В 1970 году Бенгт Илон, инженер из ЕС, изобрел шведскую компанию Mecanum. Позже его купила армия Соединенных Штатов, и Панама находилась в разработке. Эти колеса использовались для перевозки материалов и перемещения кораблей в армии.",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/olm-a-150-koleso-mecanum/"
+  },
+  {
+    "id": 782,
+    "title": "Грузовая платформа OLP-100",
+    "slug": "gruzovaya-platforma-olp-100",
+    "description": "Бренд\nOkta\n\n\nСерия\nОЛП-100\n\n\nКласс\nТранспортная платформа\n\n\nДлина\n5020мм\n\n\nШирина\n2230мм\n\n\nВысота\n650мм\n\n\nВодить\nЭлектрический\n\n\nПустой вес ВКЛ. батарея\n4800 кг\n\n\nTaşıma kapasitesi\n10000кг\n\n\nСкорость движения\n2 км/ч\n\n\nШины​\nМеканум\n\n\nРазмер шин\nD: 290mm S:260mm\n\n\nНапряжение батареи\n48В\n\n\nЕмкость батареи\n1000ah\n\n\nВес батареи​\n1350 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/gruzovaya-platforma-olp-100/"
+  },
+  {
+    "id": 779,
+    "title": "Грузовая платформа OLP-75",
+    "slug": "gruzovaya-platforma-olp-75",
+    "description": "Бренд\nOkta\n\n\nСерия\nОЛП-75\n\n\nКласс\nТранспортная платформа\n\n\nДлина\n3520мм\n\n\nШирина\n1730мм\n\n\nВысота\n650мм\n\n\nВодить\nЭлектрический\n\n\nПустой вес ВКЛ. батарея\n3100 кг\n\n\nTaşıma kapasitesi\n7500кг\n\n\nСкорость движения\n2 км/ч\n\n\nШины​\nМеканум\n\n\nРазмер шин\nD: 290mm S:260mm\n\n\nНапряжение батареи\n48В\n\n\nЕмкость батареи\n750ah\n\n\nВес батареи​\n990 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/gruzovaya-platforma-olp-75/"
+  },
+  {
+    "id": 776,
+    "title": "Грузовая платформа OLP-50",
+    "slug": "gruzovaya-platforma-olp-50",
+    "description": "Бренд\nOkta\n\n\nСерия\nОЛП-50\n\n\nКласс\nТранспортная платформа\n\n\nДлина\n1910мм\n\n\nШирина\n1370мм\n\n\nВысота\n650мм\n\n\nВодить\nЭлектрический\n\n\nПустой вес ВКЛ. батарея\n2000кг\n\n\nTaşıma kapasitesi\n5000кг\n\n\nСкорость движения\n2 км/ч\n\n\nШины​\nМеканум\n\n\nРазмер шин\nD: 290mm S:260mm\n\n\nНапряжение батареи\n48В\n\n\nЕмкость батареи\n400ah\n\n\nВес батареи​\n600 кг",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/gruzovaya-platforma-olp-50/"
+  },
+  {
+    "id": 773,
+    "title": "Автомобильный транспортер и мобильный транспортный автомобиль",
+    "slug": "avtomobilnyj-transporter-i-mobilnyj-transportnyj-avtomobil",
+    "description": "Не нуждается энергетический кабель или рельс;\nМобильные транспортные средства с питанием.",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/avtomobilnyj-transporter-i-mobilnyj-transportnyj-avtomobil/"
+  },
+  {
+    "id": 769,
+    "title": "Электрический вилочный погрузчик OLM 20-20 Mecanum",
+    "slug": "elektricheskij-vilochnyj-pogruzchik-olm-20-20-mecanum",
+    "description": "НАПРАВЛЯЮЩЕЕ КОЛЕСО OMNI\n2,0 ТОНН\nТРИПЛЕКС\nВЫСОТА 4,80 М\nЭЛЕКТРОГИДРАВЛИЧЕСКОЕ УПРАВЛЕНИЕ\nСЕНСОРНЫЙ ДИСПЛЕЙ 7\n\n&nbsp;\nhttps://youtu.be/wZSQD67SLfw",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/elektricheskij-vilochnyj-pogruzchik-olm-20-20-mecanum/"
+  },
+  {
+    "id": 766,
+    "title": "Электрический вилочный погрузчик OLM 20-16 Mecanum",
+    "slug": "elektricheskij-vilochnyj-pogruzchik-olm-20-16-mecanum",
+    "description": "НАПРАВЛЯЮЩЕЕ КОЛЕСО OMNI\n1,6 ТОНН\nТРИПЛЕКС\nВЫСОТА 4,80 М\nЭЛЕКТРОГИДРАВЛИЧЕСКОЕ УПРАВЛЕНИЕ\nСЕНСОРНЫЙ ДИСПЛЕЙ 7\n\n&nbsp;\nhttps://youtu.be/wZSQD67SLfw",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/elektricheskij-vilochnyj-pogruzchik-olm-20-16-mecanum/"
+  },
+  {
+    "id": 763,
+    "title": "Электрический вилочный погрузчик OLH 20-20",
+    "slug": "elektricheskij-vilochnyj-pogruzchik-olh-20-20",
+    "description": "4 КОЛЕСА\n2 ТОНН\nТРИПЛЕКС ВЫСОТА 4,80 М\nЭЛЕКТРОГИДРАВЛИЧЕСКОЕ УПРАВЛЕНИЕ\nСЕНСОРНЫЙ ДИСПЛЕЙ 7\n\n7-дюймовый цветной сенсорный дисплей\nУ оператора есть 7-дюймовая сенсорная панель для удобного просмотра и быстрого обслуживания вилочного погрузчика, обеспечивая легкий доступ к главной странице, не мешая информации, такой как крейсерская скорость, уровень заряда батареи, оставшийся срок службы, вес вил, высота вил и т. Д. и обеспечивает простое использование с темами.\n&nbsp;\nhttps://youtu.be/Iz9qMTHZ_JU",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/elektricheskij-vilochnyj-pogruzchik-olh-20-20/"
+  },
+  {
+    "id": 760,
+    "title": "Электрический вилочный погрузчик OLH 20-16",
+    "slug": "elektricheskij-vilochnyj-pogruzchik-olh-20-16",
+    "description": "4 КОЛЕСА\n1,6 ТОНН\nТРИПЛЕКС ВЫСОТА 4,80 М\nЭЛЕКТРОГИДРАВЛИЧЕСКОЕ УПРАВЛЕНИЕ\nСЕНСОРНЫЙ ДИСПЛЕЙ 7\n\n7-дюймовый цветной сенсорный дисплей\nУ оператора есть 7-дюймовая сенсорная панель для удобного просмотра и быстрого обслуживания вилочного погрузчика, обеспечивая легкий доступ к главной странице, не мешая информации, такой как крейсерская скорость, уровень заряда батареи, оставшийся срок службы, вес вил, высота вил и т. Д. и обеспечивает простое использование с темами.\n&nbsp;\nhttps://youtu.be/Iz9qMTHZ_JU",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/elektricheskij-vilochnyj-pogruzchik-olh-20-16/"
+  },
+  {
+    "id": 757,
+    "title": "Электрический вилочный погрузчик OLE 20-20",
+    "slug": "elektricheskij-vilochnyj-pogruzchik-ole-20-20",
+    "description": "4 КОЛЕСА\n2,0 ТОНН\nТРИПЛЕКС ВЫСОТА 4,80 М\nЭЛЕКТРОГИДРАВЛИЧЕСКОЕ УПРАВЛЕНИЕ\nБАЗОВЫЙ ДИСПЛЕЙ 2,8\n\nЭлектронная дифференциальная система для безопасного маневрирования\nВ свою очередь, крейсерская скорость падает пропорционально углу поворота. Эта система, которая предотвращает опрокидывание и опрокидывание вилочного погрузчика, происходит автоматически, вне контроля оператора. В этот момент оператор может маневрировать более безопасно, обеспечивая более стабильный курс на поворотах.\n&nbsp;\nhttps://youtu.be/-fzgextKlqo",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/elektricheskij-vilochnyj-pogruzchik-ole-20-20/"
+  },
+  {
+    "id": 747,
+    "title": "Электрический вилочный погрузчик OLE 20-16",
+    "slug": "elektricheskij-vilochnyj-pogruzchik-ole-20-16",
+    "description": "4 КОЛЕСА\n1,6 ТОНН\nТРИПЛЕКС ВЫСОТА 4,80 М\nЭЛЕКТРОГИДРАВЛИЧЕСКОЕ УПРАВЛЕНИЕ\nБАЗОВЫЙ ДИСПЛЕЙ 2,8\n\nЭлектронная дифференциальная система для безопасного маневрирования\nВ свою очередь, крейсерская скорость падает пропорционально углу поворота. Эта система, которая предотвращает опрокидывание и опрокидывание вилочного погрузчика, происходит автоматически, вне контроля оператора. В этот момент оператор может маневрировать более безопасно, обеспечивая более стабильный курс на поворотах.\n&nbsp;\nhttps://www.youtube.com/watch?v=-fzgextKlqo",
+    "image": "https://dev.max-s.ru/wp-content/uploads/2020/08/konveyörlü-pi̇zza-firini2.jpg",
+    "link": "https://dev.max-s.ru/product/elektricheskij-vilochnyj-pogruzchik-ole-20-16/"
+  }
+]
